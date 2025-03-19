@@ -1,0 +1,6 @@
+{
+    "appointments": [
+      { "id": 1, "type": "fodrász férfi", "date": "2025-03-19T08:00", "name": "", "phone": "" },
+      { "id": 2, "type": "pszichológus", "date": "2025-03-19T09:00", "name": "", "phone": "" }
+    ]
+  }
